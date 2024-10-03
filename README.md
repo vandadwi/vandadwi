@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vandadwi, call me Vanda. Indonesian living in the Netherlands.
+- 👋 Hi, I’m @vandadwi, call me Vanda. I'm an Indonesian girl living in the Netherlands.
 - 👀 I’m interested in Data Analytics and programming with Python. And obviously, more other things.
 - 🌱 I’m currently learning to advance my Python & SQL skills. And next to it, I'm learning Dutch language on B1 level.
 - 💞️ I’m looking to collaborate on any data analytics projects, or even developing projects with Python.
